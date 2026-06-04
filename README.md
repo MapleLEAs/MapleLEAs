@@ -11,7 +11,7 @@
 |------|------|----------|
 | [TinyWebServer](https://github.com/MapleLEAs/TinyWebServer) | Reactor+Epoll高并发web服务器，压测支撑5000+并发连接 | C++14、Epoll、线程池、LT/ET边沿触发 |
 | [Algorithm-Lab](https://github.com/MapleLEAs/Algorithm-Lab) | 数据结构&算法题解库，单文件标注时空复杂度，自动化生成目录 | C++、STL、DP/树/图算法、Python |
-| [Cpp-Deep-Dive](https://github.com/MapleLEAs/Cpp-Deep-Dive) | 手写智能指针/内存池/虚表，拆解C++底层实现原理 | C++17、模板元编程、内存模型 |
+| [Cpp-Deep-Dive](https://github.com/MapleLEAs/Cpp-Deep-Dive) | 手写智能指针/内存池/虚表，拆解C++底层实现原理, 自研 MiniSTL (C++ 手写 STL)| C++17、模板元编程、内存模型 |
 | [Python-Toolkit](https://github.com/MapleLEAs/Python-Toolkit) | C++项目脚手架、通用TCP压测工具、LeetCode自动化模板生成 | Python、Matplotlib、CSV数据分析 |
 
 ### 📊 代码统计
